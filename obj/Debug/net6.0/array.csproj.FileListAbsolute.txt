@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\bin\Debug\net6.0\array.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\bin\Debug\net6.0\array.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\bin\Debug\net6.0\array.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\bin\Debug\net6.0\array.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\bin\Debug\net6.0\array.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\refint\array.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\array\obj\Debug\net6.0\ref\array.dll
